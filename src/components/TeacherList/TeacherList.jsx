@@ -13,7 +13,7 @@ const teachers = [
     },
     {
       image: Teacher2,
-      name: 'Samantha Rosenthal',
+      name: 'Patricia Flora',
       duration: '20 Hours Lesson',
       cost: '100'
   },
