@@ -1,0 +1,9 @@
+.header {
+    top: 0;
+    margin-top: 0;
+    width: 100%;
+    position: sticky;
+    background-color: #c2f3d1;
+    color: #000
+  }
+  
