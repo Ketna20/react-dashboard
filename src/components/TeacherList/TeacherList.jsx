@@ -7,19 +7,19 @@ import Teacher3 from '../../assets/images/teacher3.jpg';
 const teachers = [
     {
         image: Image1,
-        name: 'Prof. Jhone Doe',
+        name: 'Jake Reacher',
         duration: '20 Hours Lesson',
         cost: '100'
     },
     {
       image: Teacher2,
-      name: 'Prof. Jhone Doe',
+      name: 'Samantha Rosenthal',
       duration: '20 Hours Lesson',
       cost: '100'
   },
   {
     image: Teacher3,
-    name: 'Prof. Jhone Doe',
+    name: 'David James',
     duration: '20 Hours Lesson',
     cost: '100'
   }
