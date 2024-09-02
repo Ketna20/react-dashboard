@@ -1,5 +1,3 @@
 # React + TypeScript + Vite
 
-
-![Project Screenshot](assets/images/React-Dashboard.png)
-
+![alt text](src/assets/images/React-Dashboard.png)
